@@ -1,0 +1,19 @@
+{
+  "playlists": [
+    {
+      "id": "1",
+      "name": "My Playlist",
+      "songs": [
+        {
+          "id": 1,
+          "title": "Song 1",
+          "artist": "Artist 1"
+        }
+      ]
+    },
+    {
+      "id": "3fa2",
+      "name": "shem"
+    }
+  ]
+}
